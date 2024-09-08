@@ -1,0 +1,6 @@
+- Us a formal style.
+- Use "tú" in informal materials like brochures and posters in {target_lang}, where a direct appeal to the reader’s personal awareness and a call to action are needed.
+- Use "usted" in {target_lang} when a more formal tone is required, even when asking an individual to take action, such as in formal letters to government officials.
+- The revised text should sounds natural and fluent in {target_lang}.
+- Do not modifiy key terms.
+- Apply correct grammar, syntax, and spelling rules of {target_lang}.

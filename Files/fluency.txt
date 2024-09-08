@@ -1,0 +1,4 @@
+- Avoid unnecessary calques, i.e., literal, word-for-word (or root-for-root) translations, particularly in structure and meaning, if a more natural word or expression exists in the target language.
+- Use idiomatic and commonly used expressions that are natural in the context of {target_lang}.
+- Ensure the language flows naturally within the context, avoiding any unnecessary or redundant information.
+- Apply correct grammar, syntax, and spelling rules of {target_lang}.

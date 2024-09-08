@@ -1,0 +1,7 @@
+Prioritize gender-inclusive language in {target_lang} throughout:
+- Replace gendered nouns with inclusive alternatives. For example, use "quienes" + {target_lang} VERB instead of "los" + {target_lang} NOUN (e.g., "quienes participan" instead of "los participantes").
+- When referring to groups that include both genders, always use both masculine and feminine forms. For instance, say "los niños y las niñas" instead of just "los niños".
+- Opt for collective nouns that encompass all genders: use "la ciudadanía" instead of "los ciudadanos", "las personas refugiadas" instead of "los refugiados", "el personal médico" instead of "los médicos" and "la membresía", instead of "los miembros", "todos y todas" instead of "todos".
+- Use phrases that include both genders when appropriate. For example, say "Bienvenidos y bienvenidas" instead of simply "Bienvenidos".
+- Structure sentences to eliminate the need for gendered pronouns. For example, use "Cada persona debe presentar su identificación" instead of "Cada uno debe presentar su identificación."
+- Do not add unnecessary brackets or any other type of punctuation.
